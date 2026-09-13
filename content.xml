@@ -18,7 +18,7 @@
   </odeResource>
   <odeResource>
     <key>exe_version</key>
-    <value>4.0.2</value>
+    <value>4.0.3</value>
   </odeResource>
 </odeResources>
 <odeProperties>
@@ -48,11 +48,11 @@
   </odeProperty>
   <odeProperty>
     <key>pp_exelearning_version</key>
-    <value>v4.0.2</value>
+    <value>v4.0.3</value>
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1783682397089</value>
+    <value>1789208381361</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -159,6 +159,11 @@
           <odeIdeviceId>idev-ciber-00</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[
+<figure id="fig-idev-ciber-00" class="ciber-figura" style="display:block;max-width:780px;margin:1.5em auto;text-align:center;">
+  <a href="{{context_path}}/content/resources/ciber-bienvenida.jpg" target="_blank" rel="noopener" title="Ampliar imagen"><img src="{{context_path}}/content/resources/ciber-bienvenida.jpg" alt="Una persona joven se detiene antes de tocar una notificación en el móvil, junto a su portátil y su cuaderno." style="display:block;width:100%;height:auto;margin:0 auto;" decoding="async" /></a>
+  <figcaption style="margin-top:0.6em;line-height:1.5;">Antes de pulsar, detente y comprueba. <a href="{{context_path}}/content/resources/ciber-bienvenida.jpg" target="_blank" rel="noopener">Ampliar imagen (nueva pestaña)</a>.</figcaption>
+</figure>
+
 <div class="bloque bloque-teoria">
   <p class="bloque-titulo">Sois el equipo de seguridad del centro</p>
   <p>Vivís conectados: móvil, redes sociales, juegos, clase. Todo eso tiene una cara que no se ve, la <strong>ciberseguridad</strong>: proteger vuestros datos, vuestra identidad y vuestros dispositivos. En esta unidad os convertís en el <strong>equipo de seguridad</strong> del IES El Majuelo: vais a analizar riesgos reales y a preparar una <strong>campaña de concienciación</strong> para el resto del alumnado.</p>
@@ -206,7 +211,7 @@
   <p>Tu <strong>trabajo individual</strong> de cada sesión lo escribes en una <strong>plantilla de respuestas</strong>: en Google Classroom abrirás <em>tu copia</em> y allí irás rellenando las respuestas de la S1 a la S5 y pegando las capturas que se pidan. La <strong>campaña</strong> se hace <strong>en pareja</strong> y tiene su propia entrega. El <strong>cuestionario final</strong> es un formulario aparte. Todo funciona en el navegador, <strong>sin instalar nada ni crear cuentas nuevas</strong>.</p>
 </div>
 ]]></htmlView>
-          <jsonProperties><![CDATA[{"textTextarea":"<div class=\"bloque bloque-teoria\">\n  <p class=\"bloque-titulo\">Sois el equipo de seguridad del centro</p>\n  <p>Vivís conectados: móvil, redes sociales, juegos, clase. Todo eso tiene una cara que no se ve, la <strong>ciberseguridad</strong>: proteger vuestros datos, vuestra identidad y vuestros dispositivos. En esta unidad os convertís en el <strong>equipo de seguridad</strong> del IES El Majuelo: vais a analizar riesgos reales y a preparar una <strong>campaña de concienciación</strong> para el resto del alumnado.</p>\n</div>\n\n<h2>¿Qué vais a conseguir?</h2>\n<p>Al terminar seréis capaces de:</p>\n<ul>\n  <li>Reconocer los <strong>riesgos</strong> más habituales en la red y por qué os afectan.</li>\n  <li>Crear <strong>contraseñas robustas</strong> y proteger vuestra identidad digital.</li>\n  <li>Identificar <strong>malware</strong> y <strong>fraudes</strong> como el phishing.</li>\n  <li>Usar materiales (imágenes, música) <strong>respetando las licencias</strong>.</li>\n  <li>Producir en pareja una <strong>campaña de concienciación</strong> y defenderla ante la clase.</li>\n</ul>\n\n<h2>El plan, sesión a sesión</h2>\n<table class=\"tabla-datos\">\n  <thead><tr><th>Sesión</th><th>De qué va</th></tr></thead>\n  <tbody>\n    <tr><td>S1</td><td>Qué es la ciberseguridad, tipos y por qué nos importa (casos reales).</td></tr>\n    <tr><td>S2</td><td>Malware: virus, troyanos, ransomware… y cómo protegerse.</td></tr>\n    <tr><td>S3</td><td>Contraseñas, doble factor, identidad y huella digital. Retos.</td></tr>\n    <tr><td>S4</td><td>Riesgos en redes y plataformas + seguridad por hardware (firewall y HSM).</td></tr>\n    <tr><td>S5</td><td>Propiedad intelectual y licencias: qué material puedo usar y cómo.</td></tr>\n    <tr><td>S6</td><td>Presentación de la campaña y cuestionario individual.</td></tr>\n  </tbody>\n</table>\n\n<h2>El producto final: una campaña</h2>\n<div class=\"bloque bloque-actividad\">\n  <p class=\"bloque-titulo\">Campaña de concienciación (en pareja)</p>\n  <p>El trabajo grande de la unidad es una <strong>campaña</strong> (infografía, vídeo o decálogo) sobre uno de los riesgos que estudiéis, con consejos de protección bien fundamentados. La preparáis <strong>en pareja</strong> con <strong>Google Slides, Google Docs o Canva</strong> y la presentáis a la clase. Tenéis todos los detalles y un esqueleto para copiar en la página <em>«Guía de la campaña»</em>.</p>\n</div>\n\n<h2>Cómo se evalúa</h2>\n<p>Vuestra nota de la unidad sale de tres cosas:</p>\n<ul>\n  <li><strong>Tareas y retos</strong> de cada sesión (lo que vais entregando).</li>\n  <li>La <strong>campaña</strong> en pareja (el producto final).</li>\n  <li>Un <strong>cuestionario individual</strong> al final.</li>\n</ul>\n\n<div class=\"bloque bloque-nota\">\n  <p class=\"bloque-titulo\">Cómo vas a entregar</p>\n  <p>Tu <strong>trabajo individual</strong> de cada sesión lo escribes en una <strong>plantilla de respuestas</strong>: en Google Classroom abrirás <em>tu copia</em> y allí irás rellenando las respuestas de la S1 a la S5 y pegando las capturas que se pidan. La <strong>campaña</strong> se hace <strong>en pareja</strong> y tiene su propia entrega. El <strong>cuestionario final</strong> es un formulario aparte. Todo funciona en el navegador, <strong>sin instalar nada ni crear cuentas nuevas</strong>.</p>\n</div>"}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"textTextarea":"<figure id=\"fig-idev-ciber-00\" class=\"ciber-figura\" style=\"display:block;max-width:780px;margin:1.5em auto;text-align:center;\">\n  <a href=\"{{context_path}}/content/resources/ciber-bienvenida.jpg\" target=\"_blank\" rel=\"noopener\" title=\"Ampliar imagen\"><img src=\"{{context_path}}/content/resources/ciber-bienvenida.jpg\" alt=\"Una persona joven se detiene antes de tocar una notificación en el móvil, junto a su portátil y su cuaderno.\" style=\"display:block;width:100%;height:auto;margin:0 auto;\" decoding=\"async\" /></a>\n  <figcaption style=\"margin-top:0.6em;line-height:1.5;\">Antes de pulsar, detente y comprueba. <a href=\"{{context_path}}/content/resources/ciber-bienvenida.jpg\" target=\"_blank\" rel=\"noopener\">Ampliar imagen (nueva pestaña)</a>.</figcaption>\n</figure>\n\n<div class=\"bloque bloque-teoria\">\n  <p class=\"bloque-titulo\">Sois el equipo de seguridad del centro</p>\n  <p>Vivís conectados: móvil, redes sociales, juegos, clase. Todo eso tiene una cara que no se ve, la <strong>ciberseguridad</strong>: proteger vuestros datos, vuestra identidad y vuestros dispositivos. En esta unidad os convertís en el <strong>equipo de seguridad</strong> del IES El Majuelo: vais a analizar riesgos reales y a preparar una <strong>campaña de concienciación</strong> para el resto del alumnado.</p>\n</div>\n\n<h2>¿Qué vais a conseguir?</h2>\n<p>Al terminar seréis capaces de:</p>\n<ul>\n  <li>Reconocer los <strong>riesgos</strong> más habituales en la red y por qué os afectan.</li>\n  <li>Crear <strong>contraseñas robustas</strong> y proteger vuestra identidad digital.</li>\n  <li>Identificar <strong>malware</strong> y <strong>fraudes</strong> como el phishing.</li>\n  <li>Usar materiales (imágenes, música) <strong>respetando las licencias</strong>.</li>\n  <li>Producir en pareja una <strong>campaña de concienciación</strong> y defenderla ante la clase.</li>\n</ul>\n\n<h2>El plan, sesión a sesión</h2>\n<table class=\"tabla-datos\">\n  <thead><tr><th>Sesión</th><th>De qué va</th></tr></thead>\n  <tbody>\n    <tr><td>S1</td><td>Qué es la ciberseguridad, tipos y por qué nos importa (casos reales).</td></tr>\n    <tr><td>S2</td><td>Malware: virus, troyanos, ransomware… y cómo protegerse.</td></tr>\n    <tr><td>S3</td><td>Contraseñas, doble factor, identidad y huella digital. Retos.</td></tr>\n    <tr><td>S4</td><td>Riesgos en redes y plataformas + seguridad por hardware (firewall y HSM).</td></tr>\n    <tr><td>S5</td><td>Propiedad intelectual y licencias: qué material puedo usar y cómo.</td></tr>\n    <tr><td>S6</td><td>Presentación de la campaña y cuestionario individual.</td></tr>\n  </tbody>\n</table>\n\n<h2>El producto final: una campaña</h2>\n<div class=\"bloque bloque-actividad\">\n  <p class=\"bloque-titulo\">Campaña de concienciación (en pareja)</p>\n  <p>El trabajo grande de la unidad es una <strong>campaña</strong> (infografía, vídeo o decálogo) sobre uno de los riesgos que estudiéis, con consejos de protección bien fundamentados. La preparáis <strong>en pareja</strong> con <strong>Google Slides, Google Docs o Canva</strong> y la presentáis a la clase. Tenéis todos los detalles y un esqueleto para copiar en la página <em>«Guía de la campaña»</em>.</p>\n</div>\n\n<h2>Cómo se evalúa</h2>\n<p>Vuestra nota de la unidad sale de tres cosas:</p>\n<ul>\n  <li><strong>Tareas y retos</strong> de cada sesión (lo que vais entregando).</li>\n  <li>La <strong>campaña</strong> en pareja (el producto final).</li>\n  <li>Un <strong>cuestionario individual</strong> al final.</li>\n</ul>\n\n<div class=\"bloque bloque-nota\">\n  <p class=\"bloque-titulo\">Cómo vas a entregar</p>\n  <p>Tu <strong>trabajo individual</strong> de cada sesión lo escribes en una <strong>plantilla de respuestas</strong>: en Google Classroom abrirás <em>tu copia</em> y allí irás rellenando las respuestas de la S1 a la S5 y pegando las capturas que se pidan. La <strong>campaña</strong> se hace <strong>en pareja</strong> y tiene su propia entrega. El <strong>cuestionario final</strong> es un formulario aparte. Todo funciona en el navegador, <strong>sin instalar nada ni crear cuentas nuevas</strong>.</p>\n</div>"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -313,6 +318,11 @@
   </tbody>
 </table>
 
+<figure id="fig-idev-ciber-01" class="ciber-figura" style="display:block;max-width:780px;margin:1.5em auto;text-align:center;">
+  <a href="{{context_path}}/content/resources/ciber-prevenir-recuperar.jpg" target="_blank" rel="noopener" title="Ampliar infografía"><img src="{{context_path}}/content/resources/ciber-prevenir-recuperar.jpg" alt="Atención, actualizaciones y acceso seguro ponen barreras ante engaños, intrusiones y malware. Una copia del proyecto se prepara antes del fallo y permite restaurarlo desde otro lugar." style="display:block;width:100%;height:auto;margin:0 auto;" decoding="async" /></a>
+  <figcaption style="margin-top:0.6em;line-height:1.5;">Prevenir el incidente y reducir sus consecuencias son medidas complementarias. <a href="{{context_path}}/content/resources/ciber-prevenir-recuperar.jpg" target="_blank" rel="noopener">Ampliar infografía (nueva pestaña)</a>.</figcaption>
+</figure>
+
 <h2>Tipologías: ¿qué protegemos?</h2>
 <p>La ciberseguridad se organiza en varias áreas. A vuestro nivel basta con distinguir estas:</p>
 <ul>
@@ -350,7 +360,7 @@
   <p>Clasifica tu caso en una de las cinco tipologías de arriba y explica por qué. ¿Podría encajar en más de una?</p>
 </div>
 ]]></htmlView>
-          <jsonProperties><![CDATA[{"textTextarea":"<div class=\"bloque bloque-teoria\">\n  <p class=\"bloque-titulo\">La idea de hoy</p>\n  <p>La <strong>ciberseguridad</strong> es el conjunto de medidas para proteger la información, los dispositivos y a las personas frente a los peligros de la red. No es cosa solo de grandes empresas: cada vez que usáis el móvil o una red social, hay algo que proteger.</p>\n</div>\n\n<h2>Seguridad activa y seguridad pasiva</h2>\n<p>Igual que en una casa, hay dos formas de protegerse:</p>\n<table class=\"tabla-datos\">\n  <thead><tr><th>Tipo</th><th>Qué es</th><th>Ejemplos</th></tr></thead>\n  <tbody>\n    <tr><td><strong>Activa</strong></td><td>Evitar que pase algo malo.</td><td>Contraseña fuerte, antivirus, actualizaciones, no abrir enlaces raros.</td></tr>\n    <tr><td><strong>Pasiva</strong></td><td>Reducir el daño si ya ha pasado.</td><td>Copias de seguridad, cerrar sesión, avisar y cambiar contraseñas.</td></tr>\n  </tbody>\n</table>\n\n<h2>Tipologías: ¿qué protegemos?</h2>\n<p>La ciberseguridad se organiza en varias áreas. A vuestro nivel basta con distinguir estas:</p>\n<ul>\n  <li><strong>De la información y los datos</strong>: que nadie vea, cambie o robe lo que es privado.</li>\n  <li><strong>De los dispositivos</strong>: proteger el móvil, el ordenador o la consola.</li>\n  <li><strong>De las redes</strong>: proteger la conexión (wifi, internet).</li>\n  <li><strong>De las aplicaciones</strong>: que las apps y webs no tengan agujeros.</li>\n  <li><strong>De las personas</strong>: la parte más importante, porque muchos ataques engañan a la persona, no a la máquina.</li>\n</ul>\n\n<div class=\"bloque bloque-formula\">\n  <p class=\"bloque-titulo\">Lo que hay que llevarse</p>\n  <p>El eslabón más débil casi nunca es el ordenador: <strong>somos nosotros</strong>. Por eso concienciarse es la primera defensa.</p>\n</div>\n\n<h2>Esto pasa de verdad</h2>\n<p>El centro de referencia en España para la seguridad de los menores es <strong>IS4K</strong> (Internet Segura for Kids), del <strong>INCIBE</strong>. Recogen casos reales y consejos:</p>\n<ul>\n  <li>Portal para jóvenes y familias: <a href=\"https://www.incibe.es/menores\" target=\"_blank\" rel=\"noopener\">incibe.es/menores</a></li>\n  <li>Línea de ayuda gratuita en ciberseguridad: <strong>017</strong>.</li>\n</ul>\n\n<div class=\"bloque bloque-actividad\">\n  <p class=\"bloque-titulo\">Tarea S1 · «Radar de riesgos» (mínimo común)</p>\n  <p>Entra en <a href=\"https://www.incibe.es/menores\" target=\"_blank\" rel=\"noopener\">incibe.es/menores</a> y elige <strong>un caso o consejo</strong> que te llame la atención. Escribe en tu <strong>plantilla de respuestas</strong> (3–5 líneas):</p>\n  <ol>\n    <li>Qué riesgo describe y a quién afecta.</li>\n    <li>Si es un fallo de la máquina o un <strong>engaño a la persona</strong>.</li>\n    <li>Un consejo para evitarlo.</li>\n  </ol>\n</div>\n\n<div class=\"bloque bloque-nota\">\n  <p class=\"bloque-titulo\">Ampliación (opcional)</p>\n  <p>Clasifica tu caso en una de las cinco tipologías de arriba y explica por qué. ¿Podría encajar en más de una?</p>\n</div>"}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"textTextarea":"<div class=\"bloque bloque-teoria\">\n  <p class=\"bloque-titulo\">La idea de hoy</p>\n  <p>La <strong>ciberseguridad</strong> es el conjunto de medidas para proteger la información, los dispositivos y a las personas frente a los peligros de la red. No es cosa solo de grandes empresas: cada vez que usáis el móvil o una red social, hay algo que proteger.</p>\n</div>\n\n<h2>Seguridad activa y seguridad pasiva</h2>\n<p>Igual que en una casa, hay dos formas de protegerse:</p>\n<table class=\"tabla-datos\">\n  <thead><tr><th>Tipo</th><th>Qué es</th><th>Ejemplos</th></tr></thead>\n  <tbody>\n    <tr><td><strong>Activa</strong></td><td>Evitar que pase algo malo.</td><td>Contraseña fuerte, antivirus, actualizaciones, no abrir enlaces raros.</td></tr>\n    <tr><td><strong>Pasiva</strong></td><td>Reducir el daño si ya ha pasado.</td><td>Copias de seguridad, cerrar sesión, avisar y cambiar contraseñas.</td></tr>\n  </tbody>\n</table>\n\n<figure id=\"fig-idev-ciber-01\" class=\"ciber-figura\" style=\"display:block;max-width:780px;margin:1.5em auto;text-align:center;\">\n  <a href=\"{{context_path}}/content/resources/ciber-prevenir-recuperar.jpg\" target=\"_blank\" rel=\"noopener\" title=\"Ampliar infografía\"><img src=\"{{context_path}}/content/resources/ciber-prevenir-recuperar.jpg\" alt=\"Atención, actualizaciones y acceso seguro ponen barreras ante engaños, intrusiones y malware. Una copia del proyecto se prepara antes del fallo y permite restaurarlo desde otro lugar.\" style=\"display:block;width:100%;height:auto;margin:0 auto;\" decoding=\"async\" /></a>\n  <figcaption style=\"margin-top:0.6em;line-height:1.5;\">Prevenir el incidente y reducir sus consecuencias son medidas complementarias. <a href=\"{{context_path}}/content/resources/ciber-prevenir-recuperar.jpg\" target=\"_blank\" rel=\"noopener\">Ampliar infografía (nueva pestaña)</a>.</figcaption>\n</figure>\n\n<h2>Tipologías: ¿qué protegemos?</h2>\n<p>La ciberseguridad se organiza en varias áreas. A vuestro nivel basta con distinguir estas:</p>\n<ul>\n  <li><strong>De la información y los datos</strong>: que nadie vea, cambie o robe lo que es privado.</li>\n  <li><strong>De los dispositivos</strong>: proteger el móvil, el ordenador o la consola.</li>\n  <li><strong>De las redes</strong>: proteger la conexión (wifi, internet).</li>\n  <li><strong>De las aplicaciones</strong>: que las apps y webs no tengan agujeros.</li>\n  <li><strong>De las personas</strong>: la parte más importante, porque muchos ataques engañan a la persona, no a la máquina.</li>\n</ul>\n\n<div class=\"bloque bloque-formula\">\n  <p class=\"bloque-titulo\">Lo que hay que llevarse</p>\n  <p>El eslabón más débil casi nunca es el ordenador: <strong>somos nosotros</strong>. Por eso concienciarse es la primera defensa.</p>\n</div>\n\n<h2>Esto pasa de verdad</h2>\n<p>El centro de referencia en España para la seguridad de los menores es <strong>IS4K</strong> (Internet Segura for Kids), del <strong>INCIBE</strong>. Recogen casos reales y consejos:</p>\n<ul>\n  <li>Portal para jóvenes y familias: <a href=\"https://www.incibe.es/menores\" target=\"_blank\" rel=\"noopener\">incibe.es/menores</a></li>\n  <li>Línea de ayuda gratuita en ciberseguridad: <strong>017</strong>.</li>\n</ul>\n\n<div class=\"bloque bloque-actividad\">\n  <p class=\"bloque-titulo\">Tarea S1 · «Radar de riesgos» (mínimo común)</p>\n  <p>Entra en <a href=\"https://www.incibe.es/menores\" target=\"_blank\" rel=\"noopener\">incibe.es/menores</a> y elige <strong>un caso o consejo</strong> que te llame la atención. Escribe en tu <strong>plantilla de respuestas</strong> (3–5 líneas):</p>\n  <ol>\n    <li>Qué riesgo describe y a quién afecta.</li>\n    <li>Si es un fallo de la máquina o un <strong>engaño a la persona</strong>.</li>\n    <li>Un consejo para evitarlo.</li>\n  </ol>\n</div>\n\n<div class=\"bloque bloque-nota\">\n  <p class=\"bloque-titulo\">Ampliación (opcional)</p>\n  <p>Clasifica tu caso en una de las cinco tipologías de arriba y explica por qué. ¿Podría encajar en más de una?</p>\n</div>"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -407,6 +417,18 @@
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -589,6 +611,18 @@
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -631,6 +665,18 @@
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -722,14 +768,19 @@
 </ul>
 <div class="bloque bloque-resuelto">
   <p class="bloque-titulo">Truco: la frase-contraseña (ejemplo resuelto)</p>
-  <p>Piensa una frase que solo tú recuerdes y transfórmala. Por ejemplo: <em>«Mi perro Roco tiene 3 años y ladra mucho»</em> &rarr; <code>MpRt3a&amp;Lm!</code>. Larga, fácil de recordar para ti, difícil de adivinar para otros.</p>
+  <p>Una opción es combinar varias palabras que no guarden relación y hacer una frase larga. Ejemplo solo para practicar: <code>Nube-Tambor-Cobre-Lince-47!</code>. Tiene 27 caracteres. <strong>No uses este ejemplo en una cuenta real</strong>: crea una combinación propia y distinta para cada servicio, preferiblemente con ayuda del gestor.</p>
 </div>
 
 <h2>Gestores y doble factor</h2>
 <ul>
   <li><strong>Gestor de contraseñas</strong>: un programa que guarda tus contraseñas cifradas; solo recuerdas una, la maestra.</li>
-  <li><strong>Verificación en dos pasos (2FA)</strong>: además de la contraseña, pide un código del móvil. Aunque roben la contraseña, no pueden entrar. <strong>Actívalo en el correo y las redes sociales.</strong></li>
+  <li><strong>Verificación en dos pasos (2FA)</strong>: además de la contraseña, pide un código del móvil. Añade una barrera frente al robo de la contraseña, aunque no elimina todos los riesgos. <strong>Actívalo en el correo y las redes sociales.</strong></li>
 </ul>
+
+<figure id="fig-idev-ciber-03" class="ciber-figura" style="display:block;max-width:780px;margin:1.5em auto;text-align:center;">
+  <a href="{{context_path}}/content/resources/ciber-contrasenas.jpg" target="_blank" rel="noopener" title="Ampliar infografía"><img src="{{context_path}}/content/resources/ciber-contrasenas.jpg" alt="Cada cuenta utiliza una contraseña diferente. Un gestor guarda las contraseñas y se protege con una contraseña maestra. Para acceder a una cuenta con doble factor se combina la contraseña con un código temporal. No compartas tus contraseñas ni tus códigos." style="display:block;width:100%;height:auto;margin:0 auto;" decoding="async" /></a>
+  <figcaption style="margin-top:0.6em;line-height:1.5;">Contraseñas distintas, un gestor protegido y un segundo factor: tres hábitos complementarios. <a href="{{context_path}}/content/resources/ciber-contrasenas.jpg" target="_blank" rel="noopener">Ampliar infografía (nueva pestaña)</a>.</figcaption>
+</figure>
 
 <div class="bloque bloque-actividad">
   <p class="bloque-titulo">Reto 1 · Laboratorio de contraseñas (mínimo común)</p>
@@ -762,7 +813,7 @@
   <p>Entra en <a href="https://haveibeenpwned.com" target="_blank" rel="noopener">haveibeenpwned.com</a> (sin cuenta) y comprueba si un correo <em>de ejemplo</em> ha aparecido en filtraciones conocidas. ¿Qué deberías hacer si tu correo real sale en la lista?</p>
 </div>
 ]]></htmlView>
-          <jsonProperties><![CDATA[{"textTextarea":"<div class=\"bloque bloque-teoria\">\n  <p class=\"bloque-titulo\">La idea de hoy</p>\n  <p>La contraseña es la llave de vuestra vida digital. Hoy aprendéis a crear <strong>llaves difíciles de romper</strong>, a protegerlas con un segundo candado y a entender qué es vuestra <strong>identidad</strong> y vuestra <strong>huella digital</strong>.</p>\n</div>\n\n<h2>Una buena contraseña</h2>\n<ul>\n  <li>Es <strong>larga</strong> (mejor 12 caracteres o más).</li>\n  <li>Mezcla <strong>mayúsculas, minúsculas, números y símbolos</strong>.</li>\n  <li>No es una palabra del diccionario, ni tu nombre, ni <code>123456</code>, ni la fecha de tu cumpleaños.</li>\n  <li>Es <strong>distinta</strong> en cada servicio.</li>\n</ul>\n<div class=\"bloque bloque-resuelto\">\n  <p class=\"bloque-titulo\">Truco: la frase-contraseña (ejemplo resuelto)</p>\n  <p>Piensa una frase que solo tú recuerdes y transfórmala. Por ejemplo: <em>«Mi perro Roco tiene 3 años y ladra mucho»</em> &rarr; <code>MpRt3a&amp;Lm!</code>. Larga, fácil de recordar para ti, difícil de adivinar para otros.</p>\n</div>\n\n<h2>Gestores y doble factor</h2>\n<ul>\n  <li><strong>Gestor de contraseñas</strong>: un programa que guarda tus contraseñas cifradas; solo recuerdas una, la maestra.</li>\n  <li><strong>Verificación en dos pasos (2FA)</strong>: además de la contraseña, pide un código del móvil. Aunque roben la contraseña, no pueden entrar. <strong>Actívalo en el correo y las redes sociales.</strong></li>\n</ul>\n\n<div class=\"bloque bloque-actividad\">\n  <p class=\"bloque-titulo\">Reto 1 · Laboratorio de contraseñas (mínimo común)</p>\n  <p>Vas a usar un <strong>comprobador de fortaleza</strong> que funciona dentro del navegador, sin cuenta:\n  <a href=\"https://password.kaspersky.com/es/\" target=\"_blank\" rel=\"noopener\">password.kaspersky.com/es</a>.</p>\n  <p><strong>Muy importante:</strong> prueba solo contraseñas <strong>inventadas</strong>, <u>nunca</u> las tuyas de verdad. Un comprobador es para practicar, no para revelar tus llaves.</p>\n  <ol>\n    <li>Inventa una contraseña «mala» y otra «buena» y compara el resultado.</li>\n    <li>Anota en tu <strong>plantilla de respuestas</strong> cuánto tardaría en romperse cada una.</li>\n    <li>Mejora la mala hasta que suba de nivel y explica qué cambiaste.</li>\n  </ol>\n</div>\n\n<div class=\"bloque bloque-actividad\">\n  <p class=\"bloque-titulo\">Reto 2 · Cazadores de phishing (mínimo común)</p>\n  <p>El <strong>phishing</strong> es un engaño que imita a una web o correo de confianza (tu banco, una red social) para robarte datos. Pon a prueba tu ojo con el test de Google/Jigsaw, sin cuenta y en español:\n  <a href=\"https://phishingquiz.withgoogle.com/?hl=es\" target=\"_blank\" rel=\"noopener\">phishingquiz.withgoogle.com</a>.</p>\n  <p>Al terminar, apunta en tu <strong>plantilla de respuestas</strong> <strong>tres señales</strong> que delatan un correo falso (por ejemplo: la dirección del remitente, enlaces raros, prisa o amenazas). Puedes pegar también una captura del resultado.</p>\n</div>\n\n<h2>Identidad y huella digital</h2>\n<p>Tu <strong>identidad digital</strong> es todo lo que te representa en la red (perfiles, fotos, comentarios). Tu <strong>huella digital</strong> es el rastro que dejas: mucho de lo que publicas <strong>puede quedar para siempre</strong>, aunque lo borres.</p>\n<div class=\"bloque bloque-formula\">\n  <p class=\"bloque-titulo\">Lo que hay que llevarse</p>\n  <p>Antes de publicar, pregúntate: «¿Me importaría que esto lo viera cualquiera dentro de 10 años?». Si la respuesta es sí, no lo publiques.</p>\n</div>\n\n<div class=\"bloque bloque-nota\">\n  <p class=\"bloque-titulo\">Ampliación (opcional)</p>\n  <p>Entra en <a href=\"https://haveibeenpwned.com\" target=\"_blank\" rel=\"noopener\">haveibeenpwned.com</a> (sin cuenta) y comprueba si un correo <em>de ejemplo</em> ha aparecido en filtraciones conocidas. ¿Qué deberías hacer si tu correo real sale en la lista?</p>\n</div>"}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"textTextarea":"<div class=\"bloque bloque-teoria\">\n  <p class=\"bloque-titulo\">La idea de hoy</p>\n  <p>La contraseña es la llave de vuestra vida digital. Hoy aprendéis a crear <strong>llaves difíciles de romper</strong>, a protegerlas con un segundo candado y a entender qué es vuestra <strong>identidad</strong> y vuestra <strong>huella digital</strong>.</p>\n</div>\n\n<h2>Una buena contraseña</h2>\n<ul>\n  <li>Es <strong>larga</strong> (mejor 12 caracteres o más).</li>\n  <li>Mezcla <strong>mayúsculas, minúsculas, números y símbolos</strong>.</li>\n  <li>No es una palabra del diccionario, ni tu nombre, ni <code>123456</code>, ni la fecha de tu cumpleaños.</li>\n  <li>Es <strong>distinta</strong> en cada servicio.</li>\n</ul>\n<div class=\"bloque bloque-resuelto\">\n  <p class=\"bloque-titulo\">Truco: la frase-contraseña (ejemplo resuelto)</p>\n  <p>Una opción es combinar varias palabras que no guarden relación y hacer una frase larga. Ejemplo solo para practicar: <code>Nube-Tambor-Cobre-Lince-47!</code>. Tiene 27 caracteres. <strong>No uses este ejemplo en una cuenta real</strong>: crea una combinación propia y distinta para cada servicio, preferiblemente con ayuda del gestor.</p>\n</div>\n\n<h2>Gestores y doble factor</h2>\n<ul>\n  <li><strong>Gestor de contraseñas</strong>: un programa que guarda tus contraseñas cifradas; solo recuerdas una, la maestra.</li>\n  <li><strong>Verificación en dos pasos (2FA)</strong>: además de la contraseña, pide un código del móvil. Añade una barrera frente al robo de la contraseña, aunque no elimina todos los riesgos. <strong>Actívalo en el correo y las redes sociales.</strong></li>\n</ul>\n\n<figure id=\"fig-idev-ciber-03\" class=\"ciber-figura\" style=\"display:block;max-width:780px;margin:1.5em auto;text-align:center;\">\n  <a href=\"{{context_path}}/content/resources/ciber-contrasenas.jpg\" target=\"_blank\" rel=\"noopener\" title=\"Ampliar infografía\"><img src=\"{{context_path}}/content/resources/ciber-contrasenas.jpg\" alt=\"Cada cuenta utiliza una contraseña diferente. Un gestor guarda las contraseñas y se protege con una contraseña maestra. Para acceder a una cuenta con doble factor se combina la contraseña con un código temporal. No compartas tus contraseñas ni tus códigos.\" style=\"display:block;width:100%;height:auto;margin:0 auto;\" decoding=\"async\" /></a>\n  <figcaption style=\"margin-top:0.6em;line-height:1.5;\">Contraseñas distintas, un gestor protegido y un segundo factor: tres hábitos complementarios. <a href=\"{{context_path}}/content/resources/ciber-contrasenas.jpg\" target=\"_blank\" rel=\"noopener\">Ampliar infografía (nueva pestaña)</a>.</figcaption>\n</figure>\n\n<div class=\"bloque bloque-actividad\">\n  <p class=\"bloque-titulo\">Reto 1 · Laboratorio de contraseñas (mínimo común)</p>\n  <p>Vas a usar un <strong>comprobador de fortaleza</strong> que funciona dentro del navegador, sin cuenta:\n  <a href=\"https://password.kaspersky.com/es/\" target=\"_blank\" rel=\"noopener\">password.kaspersky.com/es</a>.</p>\n  <p><strong>Muy importante:</strong> prueba solo contraseñas <strong>inventadas</strong>, <u>nunca</u> las tuyas de verdad. Un comprobador es para practicar, no para revelar tus llaves.</p>\n  <ol>\n    <li>Inventa una contraseña «mala» y otra «buena» y compara el resultado.</li>\n    <li>Anota en tu <strong>plantilla de respuestas</strong> cuánto tardaría en romperse cada una.</li>\n    <li>Mejora la mala hasta que suba de nivel y explica qué cambiaste.</li>\n  </ol>\n</div>\n\n<div class=\"bloque bloque-actividad\">\n  <p class=\"bloque-titulo\">Reto 2 · Cazadores de phishing (mínimo común)</p>\n  <p>El <strong>phishing</strong> es un engaño que imita a una web o correo de confianza (tu banco, una red social) para robarte datos. Pon a prueba tu ojo con el test de Google/Jigsaw, sin cuenta y en español:\n  <a href=\"https://phishingquiz.withgoogle.com/?hl=es\" target=\"_blank\" rel=\"noopener\">phishingquiz.withgoogle.com</a>.</p>\n  <p>Al terminar, apunta en tu <strong>plantilla de respuestas</strong> <strong>tres señales</strong> que delatan un correo falso (por ejemplo: la dirección del remitente, enlaces raros, prisa o amenazas). Puedes pegar también una captura del resultado.</p>\n</div>\n\n<h2>Identidad y huella digital</h2>\n<p>Tu <strong>identidad digital</strong> es todo lo que te representa en la red (perfiles, fotos, comentarios). Tu <strong>huella digital</strong> es el rastro que dejas: mucho de lo que publicas <strong>puede quedar para siempre</strong>, aunque lo borres.</p>\n<div class=\"bloque bloque-formula\">\n  <p class=\"bloque-titulo\">Lo que hay que llevarse</p>\n  <p>Antes de publicar, pregúntate: «¿Me importaría que esto lo viera cualquiera dentro de 10 años?». Si la respuesta es sí, no lo publiques.</p>\n</div>\n\n<div class=\"bloque bloque-nota\">\n  <p class=\"bloque-titulo\">Ampliación (opcional)</p>\n  <p>Entra en <a href=\"https://haveibeenpwned.com\" target=\"_blank\" rel=\"noopener\">haveibeenpwned.com</a> (sin cuenta) y comprueba si un correo <em>de ejemplo</em> ha aparecido en filtraciones conocidas. ¿Qué deberías hacer si tu correo real sale en la lista?</p>\n</div>"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -819,6 +870,18 @@
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -894,6 +957,18 @@
           <jsonProperties><![CDATA[{"id":"idevice-1783688037273-1f7zgnugj","typeGame":"TrueOrFalse","eXeGameInstructions":"<p>Responde todas las preguntas del cuestionario.</p>","eXeIdeviceTextAfter":"","msgs":{"msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgNoImage":"Pregunta sin imágenes","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Verdadero o falso","msgFeedback":"Retroalimentación","msgSuggestion":"Sugerencia","msgSolution":"Solución","msgQuestion":"Pregunta","msgTrue":"Verdadero","msgFalse":"Falso","msgOk":"Correcto","msgKO":"Incorrecto","msgShow":"Mostrar","msgHide":"Ocultar","msgCheck":"Comprobar","msgReboot":"¡Prueba otra vez!","msgScore":"Puntuación","msgWeight":"Peso","msgNext":"Siguiente","msgPrevious":"Anterior"},"questionsRandom":false,"percentageQuestions":100,"isTest":false,"time":0,"questionsGame":[{"question":"<p>Con la verificación en dos pasos (2FA), aunque roben tu contraseña, aún necesitan un segundo código para entrar.</p>","feedback":"<p>Hace falta un. segundo código, no es suficiente con la contraseña. Por eso conviene activarla en el correo y las redes sociales.</p>","suggestion":"<p>Es un segundo candado además de la contraseña.</p>","solution":1}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"evaluation":false,"evaluationID":"","showSlider":false,"ideviceId":"idevice-1783688037273-1f7zgnugj"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1078,6 +1153,18 @@
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1153,6 +1240,18 @@
           <jsonProperties><![CDATA[{"id":"idevice-1783688447595-s5yhq8rdm","typeGame":"TrueOrFalse","eXeGameInstructions":"<p>Responde todas las preguntas del cuestionario.</p>","eXeIdeviceTextAfter":"","msgs":{"msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgNoImage":"Pregunta sin imágenes","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Verdadero o falso","msgFeedback":"Retroalimentación","msgSuggestion":"Sugerencia","msgSolution":"Solución","msgQuestion":"Pregunta","msgTrue":"Verdadero","msgFalse":"Falso","msgOk":"Correcto","msgKO":"Incorrecto","msgShow":"Mostrar","msgHide":"Ocultar","msgCheck":"Comprobar","msgReboot":"¡Prueba otra vez!","msgScore":"Puntuación","msgWeight":"Peso","msgNext":"Siguiente","msgPrevious":"Anterior"},"questionsRandom":false,"percentageQuestions":100,"isTest":false,"time":0,"questionsGame":[{"question":"<p>Una app de linterna que pide acceso a tus contactos y micrófono está pidiendo más permisos de los que necesita.</p>","feedback":"<p>Para encender o apagar la luz no hacen falta esos permisos. Acuérdate siempre de dar solo los permisos imprescindibles para la función de la app.</p>","suggestion":"<p>¿Para qué necesita una linterna tus contactos?</p>","solution":1}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"evaluation":false,"evaluationID":"","showSlider":false,"ideviceId":"idevice-1783688447595-s5yhq8rdm"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1338,6 +1437,18 @@
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1380,6 +1491,18 @@
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1560,6 +1683,18 @@
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
